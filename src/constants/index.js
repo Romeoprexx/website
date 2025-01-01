@@ -27,6 +27,7 @@ import {
     shirt,
     travel,
     metaverse,
+    zent,
     cloth
 } from "../assets";
 
@@ -220,7 +221,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: zentryCover,
+        image: zent,
         source_code_link: "https://github.com/Romeoprexx/zentry-web",
         view_project_link: "https://zentry-web.netlify.app/",
     },

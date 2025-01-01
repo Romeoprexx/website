@@ -38,6 +38,9 @@ import travel from "./travel.png";
 import metaverse from "./metaverse.png";
 import hi from "./hi.png";
 import cloth from "./cloth.png";
+import zent from "./zent.png";
+import zentry from "./zentry.webp";
+import zentryCover from "./zentryCover.jpg"
 
 export {
   logo,
@@ -76,5 +79,8 @@ export {
   travel,
   metaverse, 
   hi,
-  cloth
+  cloth,
+  zent,
+  zentry,
+  zentryCover
 };

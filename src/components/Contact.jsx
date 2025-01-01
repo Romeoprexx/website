@@ -33,7 +33,7 @@ const Contact = () => {
      'template_uvd8ge8',
       {
         from_name: form.name,
-        to_email: 'Romeo',
+        to_name: 'Romeo',
         from_email: form.email,
         to_email: 'romeo.o.omoregie@outlook.com',
         message: form.message,

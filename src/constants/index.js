@@ -121,55 +121,55 @@ const technologies = [
 
 const experiences = [
     {
-        title: "Frontend Developer",
-        company_name: "Stutern",
+        title: "Data Anaylst",
+        company_name: "Alcon Nigeria Ltd",
         icon: starbucks,
         iconBg: "#383E56",
-        date: "March 2020 - April 2021",
+        date: "Jun 2015 - Aug 2018",
         points: [
-            "Developing and maintaining web applications using React.js, and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Collect, cleans and interprets data sets in order to solve a problem.",
+            "Develop data dashboards, charts and visual aids to support decision-making.",
+            "Identify opportunities to process enhancement.",
+            "Create and maintain processes to generate accurate and timely reports that help stakeholders understand and act on key data insight.",
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Harvoxx Tech Hub",
+        title: "Software Engineer Intern",
+        company_name: "InterSwitch",
         icon: tesla,
         iconBg: "#E6DEDD",
-        date: "April 2021 - Feb 2022",
+        date: "Nov 2019 - Nov 2020",
         points: [
-            "Developing and maintaining websites using React.js, Next.js and other related technologies.",
+            "Developing and maintaining websites and applications using React.js, Next.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Approaching problems and creating solutions.",
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tek Experts",
+        title: "Front End Engineer",
+        company_name: "Harvoxx Tech Hub",
         icon: shopify,
         iconBg: "#383E56",
-        date: "Feb 2022 - Jan 2023",
+        date: "Dec 2020 - Apr 2024",
         points: [
-            "Developing and maintaining Andriod and IOS applications using React native and other related technologies.",
+            "Contributed, to and participated in frontend code review, using technologies such as NodeJS, NextJS, and JavaScript.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Slice software initiative into smaller deliverables, i.e. Epics, and Sub-epics.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
     {
-        title: "React.js Developer",
-        company_name: "Co-Creation Hub",
+        title: "Software Engineer",
+        company_name: "Green Heart Care Pty Ltd",
         icon: meta,
         iconBg: "#E6DEDD",
-        date: "Jan 2023 - Present",
+        date: "Jan 2024 - Present",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Build reactive frontend applications using React (NextJS), and React Native Expo.",
+            "Architect, build, and maintain backend logic using tools such as Firebase, NodeJS, MongoDB, ExpressJS.",
+            "Manage container workloads using tools such as AWS ECS, Docker, etc.",
+            "Contribute, and participate in frontend code review, using technologies such as NodeJS, NextJS, and JavaScrip.",
         ],
     },
 ];
@@ -181,7 +181,7 @@ const testimonials = [
         name: "Adekunle Doyin",
         designation: "CFO",
         company: "Stutern",
-        image: "https://www.benjamindada.com/content/images/dadabenblog/2021/05/Adora-Nwodo--Software-Engineer--Microsoft.jpeg",
+        image: "https://media.licdn.com/dms/image/C4D03AQHlHNepGaEkJg/profile-displayphoto-shrink_800_800/0/1573592761059?e=2147483647&v=beta&t=x6Opnyt13n4NCedHWFoFZ9v1-c1dvgGVPmgxEgmQYYc",
     },
     {
         testimonial:
@@ -189,30 +189,30 @@ const testimonials = [
         name: "Chris Enogie",
         designation: "COO",
         company: "Harvoxx Tech Hub",
-        image: "https://media.licdn.com/dms/image/C4D03AQEY1tyJQ2jV0w/profile-displayphoto-shrink_800_800/0/1661766197176?e=2147483647&v=beta&t=Tia2f0AfucAXsjXXZyJMFxCFX8mUtM2d5htk9JDW9aY",
+        image: "https://www.harvoxx.com/assets/img/service3.jpg",
     },
     {
         testimonial:
             "After Romeo optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "James Bambe",
-        designation: "CTO",
-        company: "Co-Creation Hub",
-        image: "https://media.licdn.com/dms/image/C4D03AQHlHNepGaEkJg/profile-displayphoto-shrink_800_800/0/1573592761059?e=2147483647&v=beta&t=x6Opnyt13n4NCedHWFoFZ9v1-c1dvgGVPmgxEgmQYYc",
+        name: "Daren Maskell",
+        designation: "Service Manager",
+        company: "Green Heart Care Pty",
+        image: "https://media.licdn.com/dms/image/v2/C5603AQE6Rya6SDmSYA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1617049379523?e=1741219200&v=beta&t=Ttu8q-TJQngjLmeRs5eeaQzWMN8327vk5k_eZlw4LYY",
     },
 ];
 
 const projects = [
     {
-        name: "Gold's Gym",
+        name: "Zentry",
         description:
-            "Web-based platform that allows users to view more than 1k exercises, search for exercises, browse exercises by categories, watch videos on how to perform them. ",
+            "Zentry is the game of games ecosystem that extends beyond a gaming universe, featuring a story-driven and evolving product ecosystem, aiming to transform lives. ",
         tags: [
             {
                 name: "react.js",
                 color: "blue-text-gradient",
             },
             {
-                name: "restapi",
+                name: "GSAP",
                 color: "green-text-gradient",
             },
             {
@@ -221,8 +221,8 @@ const projects = [
             },
         ],
         image: gold,
-        source_code_link: "https://github.com/Romeoprexx/gym-app",
-        view_project_link: "https://fitness-clubs-gym.netlify.app",
+        source_code_link: "https://github.com/Romeoprexx/zentry-web",
+        view_project_link: "https://zentry-web.netlify.app/",
     },
     {
         name: "Pixel Movies",
